@@ -6,4 +6,4 @@ En la presente entrega se incluyen lo siguientes documentos:
 - Proyecto final II.ipynb que contiene en formato jupyter notebook un abordaje multivariado y que a través de un análisis de componentes principales busca reducir la dimensionalidad pero al mismo tiempo explicar la variabilidad del mismo.
 # Coderhouse-Proyecto Final-Segunda Entrega
 En la presenta entrega se incluye el siguiente archivo:
-- Proyecto Final 2da Entrega.ipynb el cual contiene el código utilizado para el preprocesamiento de los datos y puesta a punto para el entrenamiento y generación de un modelo de predicción a través de los algoritmos de árbold de clasificación y random forest.
+- "Proyecto Final 2da Entrega.ipynb" el cual contiene el código utilizado para el preprocesamiento de los datos y puesta a punto para el entrenamiento y generación de un modelo de predicción a través de los algoritmos de árbold de clasificación y random forest.
