@@ -11,3 +11,8 @@ En la presenta entrega se incluye el siguiente archivo:
 En esta oportunidad se hace entrega de lo siguiente:
 - Link a la presentación preliminar: https://docs.google.com/presentation/d/1ZLhKfk0LlQVfpohyE6BLbcogLi6s-lEo/edit?usp=sharing&ouid=116086154873368273470&rtpof=true&sd=true
 - "Proyecto Final - Regresión Logística.ipynb" que incluye el código utilizado para el desarrollo del modelo a partir del algoritmo de regresión lógistica.
+# Coderhouse-Proyecto Final - ENTREGA FINAL
+En esta última oportunidad se hace entrega de la totalidad del trabajo el cual consiste de los siguientes documentos (además de aquellos que fueron entregados en instancias anteriores):
+- "PROYECTO FINAL.ipynb" el cual es un notebook donde se incluye la totalidad del código del proyecto desde el análisis inicial de los datos hasta la gneración de los distintos modelos de predicción y su optimización.
+- "Proyecto Final Documento Ejecutivo.docx" el cual es un documento ejecutivo donde resumidamente se presentan los desarrollos llevados a cabo a lo largo del proyecto.
+- "Presentación - Modelo de evaluación de riesgos en startups.pdf" con una presentación para la alta gerencia presentando las tareas realizadas, los resultados obtenidos y las conclusiones.
